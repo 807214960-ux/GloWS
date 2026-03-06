@@ -1,3 +1,12 @@
+#!/usr/bin/env python
+# _*_ coding: utf-8 _*_
+# @Time : 2026/3/6 15:43
+# @Author : Kaiwei Zheng
+# @Version：V 0.1
+# @File : streamflow_indices.py
+# @desc : calculating statistical indicators of streamflow from the streamflow series
+# Python 3.7 or above
+
 import os
 import pandas as pd
 import numpy as np

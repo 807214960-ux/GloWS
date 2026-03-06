@@ -1,3 +1,12 @@
+#!/usr/bin/env python
+# _*_ coding: utf-8 _*_
+# @Time : 2026/3/6 14:18
+# @Author : Kaiwei Zheng
+# @Version：V 0.1
+# @File : RHSH_cal.py
+# @desc : deriving relative humidity and specific humidity from other meteorological variables
+# Python 3.7 or above
+
 import numpy as np
 import pandas as pd
 

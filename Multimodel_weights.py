@@ -1,3 +1,12 @@
+#!/usr/bin/env python
+# _*_ coding: utf-8 _*_
+# @Time : 2026/3/6 13:40
+# @Author : Kaiwei Zheng
+# @Version：V 0.1
+# @File : Multimodel_weights.py
+# @desc :  generating multi-model weights based on observations and multi-model simulations
+# Python 3.7 or above
+
 import csv
 import os
 import numpy as np

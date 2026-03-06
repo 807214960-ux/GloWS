@@ -1,3 +1,12 @@
+#!/usr/bin/env python
+# _*_ coding: utf-8 _*_
+# @Time : 2026/3/6 12:15
+# @Author : Kaiwei Zheng
+# @Version：V 0.1
+# @File : data_availability_rating.py
+# @desc : generating data availability scores and ratings
+# Python 3.7 or above
+
 import pandas as pd
 import os
 from tqdm import tqdm

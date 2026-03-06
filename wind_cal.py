@@ -1,3 +1,12 @@
+#!/usr/bin/env python
+# _*_ coding: utf-8 _*_
+# @Time : 2026/3/6 16:41
+# @Author : Kaiwei Zheng
+# @Version：V 0.1
+# @File : wind_cal.py
+# @desc : deriving actual wind speed from wind components u and v
+# Python 3.7 or above
+
 import netCDF4 as nc
 import numpy as np
 

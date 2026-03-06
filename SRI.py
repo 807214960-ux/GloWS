@@ -1,3 +1,12 @@
+#!/usr/bin/env python
+# _*_ coding: utf-8 _*_
+# @Time : 2026/3/6 15:08
+# @Author : Kaiwei Zheng
+# @Version：V 0.1
+# @File : SRI.py
+# @desc : calculating the standardized runoff index from the streamflow series
+# Python 3.7 or above
+
 import os
 import numpy as np
 import pandas as pd

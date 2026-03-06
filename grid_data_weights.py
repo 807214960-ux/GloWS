@@ -1,3 +1,13 @@
+#!/usr/bin/env python
+# _*_ coding: utf-8 _*_
+# @Time : 2026/3/6 13:18
+# @Author : Kaiwei Zheng
+# @Version：V 0.1
+# @File : grid_data_weights.py
+# @desc : generating grid area weights based on grids and polygons
+# Python 3.7 or above
+
+
 import json
 import time
 import numpy as np
